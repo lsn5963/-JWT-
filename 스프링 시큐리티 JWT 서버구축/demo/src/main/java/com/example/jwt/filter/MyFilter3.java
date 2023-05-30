@@ -32,7 +32,6 @@ public class MyFilter3 implements Filter{
             }
         }
 
-        System.out.println("필터1");
     }
 
     @Override
